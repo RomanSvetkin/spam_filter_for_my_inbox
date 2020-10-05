@@ -6,4 +6,4 @@ In machine learning, naive Bayes classifiers are a family of simple "probabilist
 
 The aim of this project is to build a spam filter using Naive Bayes algorithm from scratch. Leveraging the Bayes theorem the model is built to predict the probability that a given text is spam or non-spam based on the training data exposed to the model.
 
-The dataset consists of text messages and a target variable specifying whether the text message was a spam or not. The dataset has been picked up from [the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+The dataset consists of text messages and a target variable specifying whether the text message was a spam or not. The dataset has been picked up from [the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
